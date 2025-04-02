@@ -1,0 +1,10 @@
+QMS - Fantasy Sword Pack FREE
+
+=============
+Release Notes
+=============
+
+Version 1.0.0
+
+	• Initial Release: Introduces 3 high-quality fantasy swords (Sword_012, Sword_015, and Sword_026).
+	• See the complete collection, QMS - Fantasy Sword Pack (https://www.unrealengine.com/marketplace/en-US/product/qms-fantasy-sword-pack).
